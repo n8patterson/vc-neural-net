@@ -1,4 +1,4 @@
-# MercadoLibre fbprophet analyzer
+# Startup analyzer with neural nets
 
 This project attempts to analyze startups to predict if they will be successful if they recieve funding by using neural nets.
 
