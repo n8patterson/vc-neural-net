@@ -34,6 +34,28 @@ Before running the application first install the following dependencies.
 
 ## Analysis
 
+For this project I looked at 5 different models over 100 epochs each:
+
+1. Baseline
+    - Hidden layers: 2
+    - Hidden activation function: relu
+
+2. A1 (Baselie with more hidden layers)
+    - Hidden layers: 6
+    - Hidden activation function: relu
+
+3. A2 (Baseline with different activation function for hidden layer)
+    - Hidden layers: 2
+    - Hidden activation function: selu
+
+4. A3 (Baseline with different activation function for hidden layer)
+    - Hidden layers: 2
+    - Hidden activation function: gelu
+
+5. A4 (A3 with morer hidden layers))
+    - Hidden layers: 6
+    - Hidden activation function: gelu
+
 ---
 
 ## Contributors 
