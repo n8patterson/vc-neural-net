@@ -32,7 +32,7 @@ Before running the application first install the following dependencies.
 
 ---
 
-## Usage
+## Analysis
 
 ---
 
